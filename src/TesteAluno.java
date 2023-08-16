@@ -17,7 +17,7 @@ public class TesteAluno {
 		lista.adiciona(1, d);
 		System.out.println(lista.toString2());
 		lista.remover(0);
-		System.out.println(lista.toString2());
+		System.out.println(lista.toString());
 
 	}
 

@@ -34,7 +34,7 @@ public class Vetor {
 			a += this.alunos[i] + ", ";
 		}
 
-		a += this.alunos[this.totalDeAlunos - 1];
+		a += this.alunos[this.totalDeAlunos - 1] + "]";
 		return a;
 	}
 
